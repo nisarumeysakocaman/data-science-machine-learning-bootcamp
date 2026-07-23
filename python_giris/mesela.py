@@ -1,0 +1,1 @@
+print("Türkiye Yapay Zeka Akademisi ile python öğreniyorum.")
